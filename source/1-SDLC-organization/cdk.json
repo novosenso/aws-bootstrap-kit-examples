@@ -6,8 +6,9 @@
     "@aws-cdk/core:stackRelativeExports": "true",
     "@aws-cdk/core:newStyleStackSynthesis": true,
     "github_alias": "novosenso",
-    "github_repo_name": "aws-bootstrap-kit-examples",
+    "github_repo_name": "novosenso-cdk",
     "github_repo_branch": "main",
+    "githup_token":"AWS-CodePipeline-Hook", 	
     "email": "julien.cornouiller@novosenso.com",
     "force_email_verification": true,
     "pipeline_deployable_regions": [

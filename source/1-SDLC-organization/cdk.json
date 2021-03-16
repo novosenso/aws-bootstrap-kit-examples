@@ -9,7 +9,6 @@
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "main",
     "email": "julien.cornouiller@novosenso.com",
-    "domain_name": "novosenso.com",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
       "eu-west-1"
